@@ -1,0 +1,48 @@
+body {
+    background-image: linear-gradient(to right, white, gray, white);
+}
+
+h1 {
+    color: rgb(143, 73, 23);
+}
+
+div {
+    text-align: center;
+}
+
+
+button {
+    border: none;
+    color: white;
+    cursor: pointer;
+    width: 60px;
+    height: 30px;
+    font-size: medium;
+}
+
+.start-btn {
+    background-color: rgb(68, 217, 68);
+}
+
+.start-btn:hover {
+    background-color: green;
+    transition: 0.5s;
+}
+
+.pause-btn {
+    background-color: rgb(72, 72, 72);
+}
+
+.pause-btn:hover {
+    background-color: gray;
+    transition: 0.5s;
+}
+
+.stop-btn {
+    background-color: crimson;
+}
+
+.stop-btn:hover {
+    background-color: rgb(112, 8, 29);
+    transition: 0.5s;
+}

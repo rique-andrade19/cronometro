@@ -4,10 +4,12 @@ body {
 
 h1 {
     color: rgb(143, 73, 23);
+    font-size: 50px;
 }
 
 div {
     text-align: center;
+    margin-top: 90px;
 }
 
 
@@ -15,9 +17,10 @@ button {
     border: none;
     color: white;
     cursor: pointer;
-    width: 60px;
-    height: 30px;
+    width: 80px;
+    height: 50px;
     font-size: medium;
+    border-radius: 20px;
 }
 
 .start-btn {
